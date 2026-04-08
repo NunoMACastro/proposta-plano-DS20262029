@@ -33,7 +33,7 @@
 
 ## 3. Estrutura final proposta
 
-### 3.1 Visão global das 8 disciplinas novas
+### 3.1) Visão global das 8 disciplinas novas
 
 > Estas disciplinas vão substituir as atuais disciplinas de Programador de Informática.
 
@@ -51,7 +51,7 @@
 
 **\* Nota:** A Sugestão de Professor é feita com base nas disciplinas dadas no Curso de Programador de Informática.
 
-### 3.2 Totais globais do curso
+### 3.2) Totais globais do curso
 
 | Indicador               | Valor |
 | ----------------------- | ----: |
@@ -63,7 +63,7 @@
 
 ## 4. Distribuição dos módulos por ano
 
-### 4.1 1.º ano - 525 horas
+### 4.1) 1.º ano - 525 horas
 
 | Disciplina                 | Horas no ano |
 | -------------------------- | -----------: |
@@ -73,7 +73,7 @@
 | Desenvolvimento Web        |           75 |
 | **Total**                  |      **525** |
 
-### 4.2 2.º ano - 325 horas
+### 4.2) 2.º ano - 325 horas
 
 | Disciplina           | Horas no ano |
 | -------------------- | -----------: |
@@ -82,7 +82,7 @@
 | Desenvolvimento Web  |          100 |
 | **Total**            |      **325** |
 
-### 4.3 3.º ano - 250 horas
+### 4.3) 3.º ano - 250 horas
 
 | Disciplina          | Horas no ano |
 | ------------------- | -----------: |
@@ -96,7 +96,7 @@
 
 ## 5. Descrição final por disciplina
 
-### 5.1 Sistemas e Redes - 250h
+### 5.1) Sistemas e Redes
 
 - **Horas:** 250h
 - **Ano:** 1.º ano
@@ -117,7 +117,7 @@
 
 ---
 
-### 5.2 Fundamentos de Programação - 125h
+### 5.2) Fundamentos de Programação
 
 - **Horas:** 125h
 - **Ano:** 1.º ano
@@ -137,7 +137,7 @@ O uso de **Python** no 1.º ano permite uma entrada mais acessível e didática,
 
 ---
 
-### 5.3 Bases de Dados - 100h
+### 5.3) Bases de Dados
 
 - **Horas:** 100h
 - **Ano:** 1.º e 2.º anos
@@ -154,7 +154,7 @@ O uso de **Python** no 1.º ano permite uma entrada mais acessível e didática,
 
 ---
 
-### 5.4 Desenvolvimento Web - 250h
+### 5.4) Desenvolvimento Web
 
 - **Horas:** 250h
 - **Ano:** 1.º, 2.º e 3.º anos
@@ -174,7 +174,7 @@ O uso de **Python** no 1.º ano permite uma entrada mais acessível e didática,
 
 ---
 
-### 5.5 Programação Avançada - 200h
+### 5.5) Programação Avançada
 
 - **Horas:** 200h
 - **Ano:** 2.º ano
@@ -192,7 +192,7 @@ O uso de **Python** no 1.º ano permite uma entrada mais acessível e didática,
 
 ---
 
-### 5.6 Aplicações Móveis - 50h
+### 5.6) Aplicações Móveis
 
 - **Horas:** 50h
 - **Ano:** 3.º ano
@@ -207,7 +207,7 @@ O uso de **Python** no 1.º ano permite uma entrada mais acessível e didática,
 
 ---
 
-### 5.7 Segurança Aplicada - 50h
+### 5.7) Segurança Aplicada
 
 - **Horas:** 50h
 - **Ano:** 3.º ano
@@ -223,7 +223,7 @@ O uso de **Python** no 1.º ano permite uma entrada mais acessível e didática,
 
 ---
 
-### 5.8 Projeto de Software - 75h
+### 5.8) Projeto de Software
 
 **Nota:** Optei por colocar o projeto (e a documentação) numa disciplina à parte para que o projeto não seja "contaminado" pela disciplina onde fosse inserido. Por exemplo, se fosse inserido na disciplina de Desenvolvimento Web, o projeto poderia ser visto como um projeto de desenvolvimento web, o que não é necessariamente o caso. Ou se fosse inserido na disciplina de Programação Avançada, poderia ser visto como um projeto de programação pura, o que também não é necessariamente o caso. Limitaria a visão do projeto a um domínio específico, o que não é desejável. Assim, a disciplina de Projeto de Software pode ser mais transversal e permitir projetos mais variados, além de dar um enfoque específico à documentação técnica, que é uma competência importante a evidenciar.
 
