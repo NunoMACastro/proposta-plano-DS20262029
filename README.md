@@ -1,4 +1,7 @@
-# Proposta de Reestruturação do Curso de Programador de Informática para Desenvolvimento de Software
+# Proposta de Plano Curricular
+
+**Curso:** Desenvolvimento de Software
+**Triénio:** 2026-2029
 
 ---
 
@@ -273,7 +276,7 @@ O uso de **Python** no 1.º ano permite uma entrada mais acessível e didática,
 
 ---
 
-## 7. Tabela síntese (formato grelha por ano)
+## 7. Plano Curricular Proposto
 
 ![Plano curricular proposto](./images/plano_curricular.png)
 
