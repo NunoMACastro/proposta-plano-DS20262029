@@ -95,11 +95,11 @@
 
 ### 5.1 Sistemas e Redes - 250h
 
-**Horas:** 250h
-**Ano:** 1.º ano
-**Objectivo:** Criar a base técnica do curso no 1.º ano, concentrando hardware, sistemas operativos, redes, segurança base e segurança/saúde no trabalho em ambiente técnico.  
-**Área da Disciplina:** Infraestruturas Informáticas (Hardware, Sistemas Operativos, Redes e Segurança Base)  
-**Descrição:** Disciplina estruturante do 1.º ano, alinhada com as UC obrigatórias do referencial para instalação e manutenção de equipamentos, configuração de sistemas operativos, interligação de redes, serviços/protocolos e segurança operacional. É a base infraestrutural que suporta as disciplinas de desenvolvimento.
+- **Horas:** 250h
+- **Ano:** 1.º ano
+- **Objectivo:** Criar a base técnica do curso no 1.º ano, concentrando hardware, sistemas operativos, redes, segurança base e segurança/saúde no trabalho em ambiente técnico.
+- **Área da Disciplina:** Infraestruturas Informáticas (Hardware, Sistemas Operativos, Redes e Segurança Base)
+- **Descrição:** Disciplina estruturante do 1.º ano, alinhada com as UC obrigatórias do referencial para instalação e manutenção de equipamentos, configuração de sistemas operativos, interligação de redes, serviços/protocolos e segurança operacional. É a base infraestrutural que suporta as disciplinas de desenvolvimento.
 
 | Ano       | Código  | UC                                                                             |   Horas |
 | --------- | ------- | ------------------------------------------------------------------------------ | ------: |
@@ -116,11 +116,11 @@
 
 ### 5.2 Fundamentos de Programação - 125h
 
-**Horas:** 125h  
-**Ano:** 1.º ano
-**Objectivo:** Introduzir pensamento computacional, algoritmia, lógica e primeira linguagem de programação, com uma entrada pedagógica progressiva.  
-**Área da Disciplina:** Programação (Algoritmia e Fundamentos)  
-**Descrição:** Disciplina de entrada na programação, com foco na construção de raciocínio algorítmico e domínio de estruturas de controlo. Combina UC obrigatórias de algoritmos e programação estruturada com a UC opcional de Python para facilitar a transição para desenvolvimento aplicado.
+- **Horas:** 125h
+- **Ano:** 1.º ano
+- **Objectivo:** Introduzir pensamento computacional, algoritmia, lógica e primeira linguagem de programação, com uma entrada pedagógica progressiva.
+- **Área da Disciplina:** Programação (Algoritmia e Fundamentos)
+- **Descrição:** Disciplina de entrada na programação, com foco na construção de raciocínio algorítmico e domínio de estruturas de controlo. Combina UC obrigatórias de algoritmos e programação estruturada com a UC opcional de Python para facilitar a transição para desenvolvimento aplicado.
 
 | Ano       | Código             | UC                                                  |   Horas |
 | --------- | ------------------ | --------------------------------------------------- | ------: |
@@ -136,11 +136,11 @@ O uso de **Python** no 1.º ano permite uma entrada mais acessível e didática,
 
 ### 5.3 Bases de Dados - 100h
 
-**Horas:** 100h  
-**Ano:** 1.º e 2.º anos
-**Objectivo:** Construir um eixo vertical de dados entre o 1.º e o 2.º ano, centrado em modelação, SQL e extensão a bases de dados não relacionais.  
-**Área da Disciplina:** Análise de Sistemas e Bases de Dados  
-**Descrição:** Disciplina dedicada ao ciclo de dados no desenvolvimento de software: modelação relacional, implementação com SQL e extensão a NoSQL. Está alinhada com o referencial ao combinar fundamentos obrigatórios com uma opção tecnológica atual para cenários de dados não relacionais.
+- **Horas:** 100h
+- **Ano:** 1.º e 2.º anos
+- **Objectivo:** Construir um eixo vertical de dados entre o 1.º e o 2.º ano, centrado em modelação, SQL e extensão a bases de dados não relacionais.
+- **Área da Disciplina:** Análise de Sistemas e Bases de Dados
+- **Descrição:** Disciplina dedicada ao ciclo de dados no desenvolvimento de software: modelação relacional, implementação com SQL e extensão a NoSQL. Está alinhada com o referencial ao combinar fundamentos obrigatórios com uma opção tecnológica atual para cenários de dados não relacionais.
 
 | Ano       | Código             | UC                                              |   Horas |
 | --------- | ------------------ | ----------------------------------------------- | ------: |
@@ -153,11 +153,11 @@ O uso de **Python** no 1.º ano permite uma entrada mais acessível e didática,
 
 ### 5.4 Desenvolvimento Web - 250h
 
-**Horas:** 250h
-**Ano:** 1.º, 2.º e 3.º anos  
-**Objectivo:** Criar um eixo vertical de desenvolvimento web ao longo dos três anos, começando no front-end, avançando para programação web e integração com bases de dados, e fechando com CMS e React.  
-**Área da Disciplina:** Programação e desenvolvimento Web. Integração de Sistemas  
-**Descrição:** Disciplina vertical de desenvolvimento aplicacional orientada à web, cobrindo front-end, programação web, integração com bases de dados e gestão/publicação de conteúdos. Incorpora UC opcionais de Git/GitHub e React, reforçando práticas de colaboração e desenvolvimento front-end moderno.
+- **Horas:** 250h
+- **Ano:** 1.º, 2.º e 3.º anos
+- **Objectivo:** Criar um eixo vertical de desenvolvimento web ao longo dos três anos, começando no front-end, avançando para programação web e integração com bases de dados, e fechando com CMS e React.
+- **Área da Disciplina:** Programação e desenvolvimento Web. Integração de Sistemas
+- **Descrição:** Disciplina vertical de desenvolvimento aplicacional orientada à web, cobrindo front-end, programação web, integração com bases de dados e gestão/publicação de conteúdos. Incorpora UC opcionais de Git/GitHub e React, reforçando práticas de colaboração e desenvolvimento front-end moderno.
 
 | Ano       | Código             | UC                                                                              |   Horas |
 | --------- | ------------------ | ------------------------------------------------------------------------------- | ------: |
@@ -173,11 +173,11 @@ O uso de **Python** no 1.º ano permite uma entrada mais acessível e didática,
 
 ### 5.5 Programação Avançada - 200h
 
-**Horas:** 200h
-**Ano:** 2.º ano
-**Objectivo:** Consolidar programação estruturada avançada, orientação a objetos e uma base mais forte em linguagens compiladas e tipicamente mais formais.  
-**Área da Disciplina:** Programação (Avançada e POO)  
-**Descrição:** Disciplina de consolidação técnica no 2.º ano, com progressão de complexidade em programação estruturada e orientação a objetos. Integra opções de Java e C/C++, alinhadas com o referencial para robustecer competências de modelação de software e implementação em linguagens fortemente tipadas.
+- **Horas:** 200h
+- **Ano:** 2.º ano
+- **Objectivo:** Consolidar programação estruturada avançada, orientação a objetos e uma base mais forte em linguagens compiladas e tipicamente mais formais.
+- **Área da Disciplina:** Programação (Avançada e POO)
+- **Descrição:** Disciplina de consolidação técnica no 2.º ano, com progressão de complexidade em programação estruturada e orientação a objetos. Integra opções de Java e C/C++, alinhadas com o referencial para robustecer competências de modelação de software e implementação em linguagens fortemente tipadas.
 
 | Ano       | Código             | UC                                                                      |   Horas |
 | --------- | ------------------ | ----------------------------------------------------------------------- | ------: |
@@ -191,11 +191,11 @@ O uso de **Python** no 1.º ano permite uma entrada mais acessível e didática,
 
 ### 5.6 Aplicações Móveis - 50h
 
-**Horas:** 50h  
-**Ano:** 3.º ano
-**Objectivo:** Introdução ao desenvolvimento de aplicações móveis, para que os alunos tenham uma visão mais completa do desenvolvimento de software e possam explorar esta área em crescimento.  
-**Área da Disciplina:** Desenvolvimento Mobile (pode ser teórico ou teórico-prático uma vez que 50 horas é pouco para prática)  
-**Descrição:** Disciplina especializada do 3.º ano orientada para desenvolvimento de aplicações móveis, em linha com a UC obrigatória do referencial. Amplia o perfil do aluno para contextos multiplataforma e reforça a capacidade de adaptação a diferentes interfaces e dispositivos.
+- **Horas:** 50h
+- **Ano:** 3.º ano
+- **Objectivo:** Introdução ao desenvolvimento de aplicações móveis, para que os alunos tenham uma visão mais completa do desenvolvimento de software e possam explorar esta área em crescimento.
+- **Área da Disciplina:** Desenvolvimento Mobile (pode ser teórico ou teórico-prático uma vez que 50 horas é pouco para prática)
+- **Descrição:** Disciplina especializada do 3.º ano orientada para desenvolvimento de aplicações móveis, em linha com a UC obrigatória do referencial. Amplia o perfil do aluno para contextos multiplataforma e reforça a capacidade de adaptação a diferentes interfaces e dispositivos.
 
 | Ano       | Código  | UC                                              |  Horas |
 | --------- | ------- | ----------------------------------------------- | -----: |
@@ -206,11 +206,11 @@ O uso de **Python** no 1.º ano permite uma entrada mais acessível e didática,
 
 ### 5.7 Segurança Aplicada - 50h
 
-**Horas:** 50h
-**Ano:** 3.º ano
-**Objectivo:** Trabalhar segurança no desenvolvimento de software e no contexto de publicação/operação de aplicações web.  
-**Área da Disciplina:** Programação, Cibersegurança Aplicada ao Desenvolvimento
-**Descrição:** Disciplina focada em segurança aplicada, combinando práticas de codificação segura com configuração de servidores web. Responde às UC do referencial ligadas a segurança no ciclo de desenvolvimento e operação, aproximando o plano de exigências reais de produção.
+- **Horas:** 50h
+- **Ano:** 3.º ano
+- **Objectivo:** Trabalhar segurança no desenvolvimento de software e no contexto de publicação/operação de aplicações web.
+- **Área da Disciplina:** Programação, Cibersegurança Aplicada ao Desenvolvimento
+- **Descrição:** Disciplina focada em segurança aplicada, combinando práticas de codificação segura com configuração de servidores web. Responde às UC do referencial ligadas a segurança no ciclo de desenvolvimento e operação, aproximando o plano de exigências reais de produção.
 
 | Ano       | Código             | UC                                                               |  Horas |
 | --------- | ------------------ | ---------------------------------------------------------------- | -----: |
@@ -224,11 +224,11 @@ O uso de **Python** no 1.º ano permite uma entrada mais acessível e didática,
 
 **Nota:** Optei por colocar o projeto (e a documentação) numa disciplina à parte para que o projeto não seja "contaminado" pela disciplina onde fosse inserido. Por exemplo, se fosse inserido na disciplina de Desenvolvimento Web, o projeto poderia ser visto como um projeto de desenvolvimento web, o que não é necessariamente o caso. Ou se fosse inserido na disciplina de Programação Avançada, poderia ser visto como um projeto de programação pura, o que também não é necessariamente o caso. Limitaria a visão do projeto a um domínio específico, o que não é desejável. Assim, a disciplina de Projeto de Software pode ser mais transversal e permitir projetos mais variados, além de dar um enfoque específico à documentação técnica, que é uma competência importante a evidenciar.
 
-**Horas:** 75h  
-**Ano:** 3.º ano
-**Objectivo:** Fechar o curso com projeto, integração de competências e produção de documentação técnica adequada ao contexto profissional.  
-**Área da Disciplina:** Projeto de Software
-**Descrição:** Disciplina de fecho do percurso, com enfoque em execução de projeto de programação e comunicação técnica formal. Está alinhada com o referencial ao assegurar evidência integrada de competências técnicas e de documentação profissional.
+- **Horas:** 75h
+- **Ano:** 3.º ano
+- **Objectivo:** Fechar o curso com projeto, integração de competências e produção de documentação técnica adequada ao contexto profissional.
+- **Área da Disciplina:** Projeto de Software
+- **Descrição:** Disciplina de fecho do percurso, com enfoque em execução de projeto de programação e comunicação técnica formal. Está alinhada com o referencial ao assegurar evidência integrada de competências técnicas e de documentação profissional.
 
 | Ano       | Código  | UC                                        |  Horas |
 | --------- | ------- | ----------------------------------------- | -----: |
