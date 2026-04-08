@@ -1,7 +1,7 @@
 # Proposta de Plano Curricular
 
-**Curso:** Desenvolvimento de Software
-**Triénio:** 2026-2029
+- **Curso:** Desenvolvimento de Software
+- **Triénio:** 2026-2029
 
 ---
 
