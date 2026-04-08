@@ -284,12 +284,12 @@ O uso de **Python** no 1.º ano permite uma entrada mais acessível e didática,
 ## 8. Changelog
 
 - **08-04-2026:**
-  -- Inserção de tabela global de mapeamento UC → ano → disciplina.
-  -- Inserção de tabela síntese do plano curricular proposto.
+    - Inserção de tabela global de mapeamento UC → ano → disciplina.
+    - Inserção de tabela síntese do plano curricular proposto.
 
 - **07-04-2026:**
-  -- Re-estruturação completa do curso com base nas 8 disciplinas novas, mantendo as UC obrigatórias e integrando as UC opcionais escolhidas.
-  -- Distribuição global de horas por ano e descrição detalhada de cada disciplina.
+    - Re-estruturação completa do curso com base nas 8 disciplinas novas, mantendo as UC obrigatórias e integrando as UC opcionais escolhidas.
+    - Distribuição global de horas por ano e descrição detalhada de cada disciplina.
 
 - **27-03-2026:**
-  -- Estruturação inicial do documento, com definição de objetivos e áreas para cada disciplina, e mapeamento das UC obrigatórias e opcionais.
+    - Estruturação inicial do documento, com definição de objetivos e áreas para cada disciplina, e mapeamento das UC obrigatórias e opcionais.
