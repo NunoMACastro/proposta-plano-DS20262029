@@ -61,7 +61,7 @@
 
 ---
 
-## 4. Distribuição dos módulos por ano
+## 4. Distribuição das disciplinas por ano
 
 ### 4.1) 1.º ano - 525 horas
 
