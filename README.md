@@ -94,7 +94,7 @@
 
 ---
 
-## 5. Descrição final por disciplina
+## 5. Descrição de cada disciplina
 
 ### 5.1) Sistemas e Redes
 
