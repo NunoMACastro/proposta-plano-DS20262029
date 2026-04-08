@@ -1,6 +1,6 @@
 # Proposta de Plano Curricular
 
-- **Curso:** Desenvolvimento de Software
+- **Curso:** 481RA116 - Técnico/a de Desenvolvimento de Software
 - **Triénio:** 2026-2029
 
 ---
