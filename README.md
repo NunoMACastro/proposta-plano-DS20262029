@@ -177,7 +177,7 @@ O uso de **Python** no 1.º ano permite uma entrada mais acessível e didática,
 - **Ano:** 2.º ano
 - **Objectivo:** Consolidar programação estruturada avançada, orientação a objetos e uma base mais forte em linguagens compiladas e tipicamente mais formais.
 - **Área da Disciplina:** Programação (Avançada e POO)
-- **Descrição:** Disciplina de consolidação técnica no 2.º ano, com progressão de complexidade em programação estruturada e orientação a objetos. Integra opções de Java e C/C++, alinhadas com o referencial para robustecer competências de modelação de software e implementação em linguagens fortemente tipadas.
+- **Descrição:** Disciplina de consolidação técnica no 2.º ano, com progressão de complexidade em programação estruturada e orientação a objetos. Integra Java e C/C++, alinhadas com o referencial para enriquecer competências de modelação de software e implementação em linguagens fortemente tipadas.
 
 | Ano       | Código             | UC                                                                      |   Horas |
 | --------- | ------------------ | ----------------------------------------------------------------------- | ------: |
@@ -240,38 +240,36 @@ O uso de **Python** no 1.º ano permite uma entrada mais acessível e didática,
 
 ## 6. Tabela global de mapeamento UC → ano → disciplina
 
-| Código  | UC                                                                              | Horas | Ano | Disciplina proposta        | Sugestão de Professor\*       |
-| ------- | ------------------------------------------------------------------------------- | ----: | --- | -------------------------- | ----------------------------- |
-| UC01989 | Montar, instalar e manter equipamentos informáticos                             |    50 | 1.º | Sistemas e Redes           | João Paulo                    |
-| UC02829 | Instalar, configurar e parametrizar sistemas operativos                         |    50 | 1.º | Sistemas e Redes           | João Paulo                    |
-| UC01990 | Instalar, configurar e atualizar software complementar aos sistemas operativos  |    25 | 1.º | Sistemas e Redes           | João Paulo                    |
-| UC02817 | Instalar e interligar redes                                                     |    25 | 1.º | Sistemas e Redes           | João Paulo                    |
-| UC00241 | Configurar protocolos e serviços de rede                                        |    50 | 1.º | Sistemas e Redes           | João Paulo                    |
-| UC00613 | Gerir políticas de segurança em sistemas informáticos                           |    25 | 1.º | Sistemas e Redes           | João Paulo                    |
-| UC00616 | Implementar as normas de segurança e saúde no trabalho no setor de Informática  |    25 | 1.º | Sistemas e Redes           | João Paulo                    |
-| UC00245 | Desenvolver algoritmos                                                          |    25 | 1.º | Fundamentos de Programação | Nuno Castro                   |
-| UC00606 | Desenvolver programas em linguagem estruturada                                  |    50 | 1.º | Fundamentos de Programação | Nuno Castro                   |
-| UC00618 | Criar aplicações em linguagem de programação Python                             |    50 | 1.º | Fundamentos de Programação | Nuno Castro                   |
-| UC00602 | Modelar bases de dados relacionais                                              |    25 | 1.º | Bases de Dados             | Paulo Nabais / Carlos Coimbra |
-| UC02830 | Desenvolver uma base de dados com linguagem SQL                                 |    50 | 1.º | Bases de Dados             | Paulo Nabais / Carlos Coimbra |
-| UC02833 | Conceber aplicações para a web na vertente frontend                             |    50 | 1.º | Desenvolvimento Web        | Nuno Castro                   |
-| UC00617 | Utilizar serviços Git e GitHub                                                  |    25 | 1.º | Desenvolvimento Web        | Nuno Castro                   |
-| UC00607 | Desenvolver programas complexos em linguagem de programação estruturada         |    50 | 2.º | Programação Avançada       | Nuno Castro                   |
-| UC00608 | Desenvolver programas em linguagem orientada a objetos                          |    50 | 2.º | Programação Avançada       | Nuno Castro                   |
-| UC00619 | Desenvolver aplicações em linguagem JAVA                                        |    50 | 2.º | Programação Avançada       | Nuno Castro                   |
-| UC00669 | Conceber programas em linguagem C/C++                                           |    50 | 2.º | Programação Avançada       | Nuno Castro                   |
-| UC00664 | Criar bases de dados NoSQL                                                      |    25 | 2.º | Bases de Dados             | Paulo Nabais / Carlos Coimbra |
-| UC02834 | Desenvolver programação para a web                                              |    50 | 2.º | Desenvolvimento Web        | Nuno Castro                   |
-| UC02831 | Desenvolver uma interface para a base de dados com uma linguagem de programação |    50 | 2.º | Desenvolvimento Web        | Nuno Castro                   |
-| UC02832 | Planear, instalar e configurar um sistema de gestão de conteúdos                |    50 | 3.º | Desenvolvimento Web        | Nuno Castro                   |
-| UC00621 | Criar aplicações em React                                                       |    25 | 3.º | Desenvolvimento Web        | Nuno Castro                   |
-| UC02835 | Desenvolver aplicações para dispositivos móveis                                 |    50 | 3.º | Aplicações Móveis          | Paulo Nabais / Carlos Coimbra |
-| UC02836 | Programar parâmetros de segurança no desenvolvimento de software                |    25 | 3.º | Segurança Aplicada         | Nuno Castro                   |
-| UC00627 | Instalar e configurar servidores Web                                            |    25 | 3.º | Segurança Aplicada         | Nuno Castro                   |
-| UC02837 | Desenvolver projetos de programação                                             |    50 | 3.º | Projeto de Software        | Nuno Castro                   |
-| UC02823 | Produzir relatórios e documentos técnicos                                       |    25 | 3.º | Projeto de Software        | Nuno Castro                   |
-
-**\* Nota:** A Sugestão de Professor é feita com base nas disciplinas dadas no Curso de Programador de Informática.
+| Código  | UC                                                                              | Horas | Ano | Disciplina proposta        |
+| ------- | ------------------------------------------------------------------------------- | ----: | --- | -------------------------- |
+| UC01989 | Montar, instalar e manter equipamentos informáticos                             |    50 | 1.º | Sistemas e Redes           |
+| UC02829 | Instalar, configurar e parametrizar sistemas operativos                         |    50 | 1.º | Sistemas e Redes           |
+| UC01990 | Instalar, configurar e atualizar software complementar aos sistemas operativos  |    25 | 1.º | Sistemas e Redes           |
+| UC02817 | Instalar e interligar redes                                                     |    25 | 1.º | Sistemas e Redes           |
+| UC00241 | Configurar protocolos e serviços de rede                                        |    50 | 1.º | Sistemas e Redes           |
+| UC00613 | Gerir políticas de segurança em sistemas informáticos                           |    25 | 1.º | Sistemas e Redes           |
+| UC00616 | Implementar as normas de segurança e saúde no trabalho no setor de Informática  |    25 | 1.º | Sistemas e Redes           |
+| UC00245 | Desenvolver algoritmos                                                          |    25 | 1.º | Fundamentos de Programação |
+| UC00606 | Desenvolver programas em linguagem estruturada                                  |    50 | 1.º | Fundamentos de Programação |
+| UC00618 | Criar aplicações em linguagem de programação Python                             |    50 | 1.º | Fundamentos de Programação |
+| UC00602 | Modelar bases de dados relacionais                                              |    25 | 1.º | Bases de Dados             |
+| UC02830 | Desenvolver uma base de dados com linguagem SQL                                 |    50 | 1.º | Bases de Dados             |
+| UC02833 | Conceber aplicações para a web na vertente frontend                             |    50 | 1.º | Desenvolvimento Web        |
+| UC00617 | Utilizar serviços Git e GitHub                                                  |    25 | 1.º | Desenvolvimento Web        |
+| UC00607 | Desenvolver programas complexos em linguagem de programação estruturada         |    50 | 2.º | Programação Avançada       |
+| UC00608 | Desenvolver programas em linguagem orientada a objetos                          |    50 | 2.º | Programação Avançada       |
+| UC00619 | Desenvolver aplicações em linguagem JAVA                                        |    50 | 2.º | Programação Avançada       |
+| UC00669 | Conceber programas em linguagem C/C++                                           |    50 | 2.º | Programação Avançada       |
+| UC00664 | Criar bases de dados NoSQL                                                      |    25 | 2.º | Bases de Dados             |
+| UC02834 | Desenvolver programação para a web                                              |    50 | 2.º | Desenvolvimento Web        |
+| UC02831 | Desenvolver uma interface para a base de dados com uma linguagem de programação |    50 | 2.º | Desenvolvimento Web        |
+| UC02832 | Planear, instalar e configurar um sistema de gestão de conteúdos                |    50 | 3.º | Desenvolvimento Web        |
+| UC00621 | Criar aplicações em React                                                       |    25 | 3.º | Desenvolvimento Web        |
+| UC02835 | Desenvolver aplicações para dispositivos móveis                                 |    50 | 3.º | Aplicações Móveis          |
+| UC02836 | Programar parâmetros de segurança no desenvolvimento de software                |    25 | 3.º | Segurança Aplicada         |
+| UC00627 | Instalar e configurar servidores Web                                            |    25 | 3.º | Segurança Aplicada         |
+| UC02837 | Desenvolver projetos de programação                                             |    50 | 3.º | Projeto de Software        |
+| UC02823 | Produzir relatórios e documentos técnicos                                       |    25 | 3.º | Projeto de Software        |
 
 ---
 
@@ -280,3 +278,18 @@ O uso de **Python** no 1.º ano permite uma entrada mais acessível e didática,
 ![Plano curricular proposto](./images/plano_curricular.png)
 
 [Ver plano curricular proposto](https://docs.google.com/spreadsheets/d/1VuvWeRKOqQLfXATec_sINFAli3lMwHyD/edit?usp=share_link&ouid=106815911914090637978&rtpof=true&sd=true)
+
+---
+
+## 8. Changelog
+
+- **08-04-2026:**
+  -- Inserção de tabela global de mapeamento UC → ano → disciplina.
+  -- Inserção de tabela síntese do plano curricular proposto.
+
+- **07-04-2026:**
+  -- Re-estruturação completa do curso com base nas 8 disciplinas novas, mantendo as UC obrigatórias e integrando as UC opcionais escolhidas.
+  -- Distribuição global de horas por ano e descrição detalhada de cada disciplina.
+
+- **27-03-2026:**
+  -- Estruturação inicial do documento, com definição de objetivos e áreas para cada disciplina, e mapeamento das UC obrigatórias e opcionais.
