@@ -3,6 +3,8 @@
 - **Curso:** 481RA116 - Técnico/a de Desenvolvimento de Software
 - **Triénio:** 2026-2029
 
+![Plano curricular proposto](./images/plano_curricular.png)
+
 ---
 
 ## 1. Distribuição global de horas por ano
