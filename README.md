@@ -33,21 +33,19 @@
 
 ## 3. Estrutura final proposta
 
-### 3.1) Visão global das 8 disciplinas novas
+### 3.1) Visão global das 6 disciplinas novas
 
 > Estas disciplinas vão substituir as atuais disciplinas de Programador de Informática.
 
-|        Nº | Disciplina                 | Horas totais | Sugestão de Professor \*      | Observação                                                          |
-| --------: | -------------------------- | -----------: | ----------------------------- | ------------------------------------------------------------------- |
-|         1 | Sistemas e Redes           |          250 | João Paulo                    | Disciplina apenas do 1.º ano, concentrando a base técnica           |
-|         2 | Fundamentos de Programação |          125 | Nuno Castro                   | Entrada progressiva em algoritmia e programação                     |
-|         3 | Bases de Dados             |          100 | Paulo Nabais / Carlos Coimbra | Disciplina vertical entre 1.º e 2.º ano                             |
-|         4 | Desenvolvimento Web        |          250 | Nuno Castro                   | Disciplina vertical entre 1.º, 2.º e 3.º ano                        |
-|         5 | Programação Avançada       |          200 | Nuno Castro                   | Consolidação de programação estruturada avançada, POO, Java e C/C++ |
-|         6 | Aplicações Móveis          |           50 | Paulo Nabais / Carlos Coimbra | Área autónoma no 3.º ano                                            |
-|         7 | Segurança Aplicada         |           50 | Nuno Castro                   | Codificação segura, publicação e operação web                       |
-|         8 | Projeto de Software        |           75 | Nuno Castro                   | Fecho do curso com projeto e documentação                           |
-| **Total** |                            |     **1100** |                               |                                                                     |
+|        Nº | Disciplina                                  | Horas totais | Sugestão de Professor \*      | Observação                                                          |
+| --------: | ------------------------------------------- | -----------: | ----------------------------- | ------------------------------------------------------------------- |
+|         1 | Sistemas e Redes                            |          250 | João Paulo                    | Disciplina apenas do 1.º ano, concentrando a base técnica           |
+|         2 | Fundamentos de Programação                  |          125 | Nuno Castro                   | Entrada progressiva em algoritmia e programação                     |
+|         3 | Bases de Dados                              |          100 | Paulo Nabais / Carlos Coimbra | Disciplina vertical entre 1.º e 2.º ano                             |
+|         4 | Desenvolvimento Web                         |          325 | Nuno Castro                   | Disciplina vertical entre 1.º, 2.º e 3.º ano, incluindo projeto     |
+|         5 | Programação Avançada                        |          200 | Nuno Castro                   | Consolidação de programação estruturada avançada, POO, Java e C/C++ |
+|         6 | Desenvolvimento Mobile e Segurança Aplicada |          100 | Nuno Castro                   | Especialização final em mobile, segurança e operação web            |
+| **Total** |                                             |     **1100** |                               |                                                                     |
 
 **\* Nota:** A Sugestão de Professor é feita com base nas disciplinas dadas no Curso de Programador de Informática.
 
@@ -55,7 +53,7 @@
 
 | Indicador               | Valor |
 | ----------------------- | ----: |
-| Nº total de disciplinas |     8 |
+| Nº total de disciplinas |     6 |
 | Nº total de UC          |    28 |
 | Horas totais            |  1100 |
 
@@ -84,13 +82,11 @@
 
 ### 4.3) 3.º ano - 250 horas
 
-| Disciplina          | Horas no ano |
-| ------------------- | -----------: |
-| Desenvolvimento Web |           75 |
-| Aplicações Móveis   |           50 |
-| Segurança Aplicada  |           50 |
-| Projeto de Software |           75 |
-| **Total**           |      **250** |
+| Disciplina                                  | Horas no ano |
+| ------------------------------------------- | -----------: |
+| Desenvolvimento Web                         |          150 |
+| Desenvolvimento Mobile e Segurança Aplicada |          100 |
+| **Total**                                   |      **250** |
 
 ---
 
@@ -156,11 +152,11 @@ O uso de **Python** no 1.º ano permite uma entrada mais acessível e didática,
 
 ### 5.4) Desenvolvimento Web
 
-- **Horas:** 250h
+- **Horas:** 325h
 - **Ano:** 1.º, 2.º e 3.º anos
-- **Objectivo:** Criar um eixo vertical de desenvolvimento web ao longo dos três anos, começando no front-end, avançando para programação web e integração com bases de dados, e fechando com CMS e React.
-- **Área da Disciplina:** Programação e desenvolvimento Web. Integração de Sistemas
-- **Descrição:** Disciplina vertical de desenvolvimento aplicacional orientada à web, cobrindo front-end, programação web, integração com bases de dados e gestão/publicação de conteúdos. Incorpora UC opcionais de Git/GitHub e React, reforçando práticas de colaboração e desenvolvimento front-end moderno.
+- **Objectivo:** Criar um eixo vertical de desenvolvimento web ao longo dos três anos, começando no front-end, avançando para programação web e integração com bases de dados, e fechando com CMS, React, projeto final e documentação técnica.
+- **Área da Disciplina:** Programação e desenvolvimento Web. Integração de Sistemas. Projeto aplicacional e documentação técnica
+- **Descrição:** Disciplina vertical de desenvolvimento aplicacional orientada à web, cobrindo front-end, programação web, integração com bases de dados, gestão/publicação de conteúdos, React, execução de projeto final e produção de documentação técnica. Incorpora UC opcionais de Git/GitHub e React, reforçando práticas de colaboração e desenvolvimento front-end moderno.
 
 | Ano       | Código             | UC                                                                              |   Horas |
 | --------- | ------------------ | ------------------------------------------------------------------------------- | ------: |
@@ -170,7 +166,9 @@ O uso de **Python** no 1.º ano permite uma entrada mais acessível e didática,
 | 2.º       | UC02831            | Desenvolver uma interface para a base de dados com uma linguagem de programação |      50 |
 | 3.º       | UC02832            | Planear, instalar e configurar um sistema de gestão de conteúdos                |      50 |
 | 3.º       | UC00621 (Opcional) | Criar aplicações em React                                                       |      25 |
-| **Total** |                    |                                                                                 | **250** |
+| 3.º       | UC02837            | Desenvolver projetos de programação                                             |      50 |
+| 3.º       | UC02823            | Produzir relatórios e documentos técnicos                                       |      25 |
+| **Total** |                    |                                                                                 | **325** |
 
 ---
 
@@ -192,99 +190,78 @@ O uso de **Python** no 1.º ano permite uma entrada mais acessível e didática,
 
 ---
 
-### 5.6) Aplicações Móveis
+### 5.6) Desenvolvimento Mobile e Segurança Aplicada
 
-- **Horas:** 50h
+- **Horas:** 100h
 - **Ano:** 3.º ano
-- **Objectivo:** Introdução ao desenvolvimento de aplicações móveis, para que os alunos tenham uma visão mais completa do desenvolvimento de software e possam explorar esta área em crescimento.
-- **Área da Disciplina:** Desenvolvimento Mobile (pode ser teórico ou teórico-prático uma vez que 50 horas é pouco para prática)
-- **Descrição:** Disciplina especializada do 3.º ano orientada para desenvolvimento de aplicações móveis, em linha com a UC obrigatória do referencial. Amplia o perfil do aluno para contextos multiplataforma e reforça a capacidade de adaptação a diferentes interfaces e dispositivos.
+- **Objectivo:** Concentrar competências finais de desenvolvimento mobile, segurança aplicada ao desenvolvimento de software e configuração de servidores web.
+- **Área da Disciplina:** Desenvolvimento Mobile, Cibersegurança Aplicada ao Desenvolvimento e Operação Web
+- **Descrição:** Disciplina especializada do 3.º ano, orientada para desenvolvimento de aplicações móveis e reforço de práticas de segurança no ciclo de desenvolvimento e publicação. Combina mobile, codificação segura e configuração de servidores web, aproximando o plano de contextos reais de desenvolvimento, entrega e operação de software.
 
-| Ano       | Código  | UC                                              |  Horas |
-| --------- | ------- | ----------------------------------------------- | -----: |
-| 3.º       | UC02835 | Desenvolver aplicações para dispositivos móveis |     50 |
-| **Total** |         |                                                 | **50** |
-
----
-
-### 5.7) Segurança Aplicada
-
-- **Horas:** 50h
-- **Ano:** 3.º ano
-- **Objectivo:** Trabalhar segurança no desenvolvimento de software e no contexto de publicação/operação de aplicações web.
-- **Área da Disciplina:** Programação, Cibersegurança Aplicada ao Desenvolvimento
-- **Descrição:** Disciplina focada em segurança aplicada, combinando práticas de codificação segura com configuração de servidores web. Responde às UC do referencial ligadas a segurança no ciclo de desenvolvimento e operação, aproximando o plano de exigências reais de produção.
-
-| Ano       | Código             | UC                                                               |  Horas |
-| --------- | ------------------ | ---------------------------------------------------------------- | -----: |
-| 3.º       | UC02836            | Programar parâmetros de segurança no desenvolvimento de software |     25 |
-| 3.º       | UC00627 (Opcional) | Instalar e configurar servidores Web                             |     25 |
-| **Total** |                    |                                                                  | **50** |
-
----
-
-### 5.8) Projeto de Software
-
-**Nota:** Optei por colocar o projeto (e a documentação) numa disciplina à parte para que o projeto não seja "contaminado" pela disciplina onde fosse inserido. Por exemplo, se fosse inserido na disciplina de Desenvolvimento Web, o projeto poderia ser visto como um projeto de desenvolvimento web, o que não é necessariamente o caso. Ou se fosse inserido na disciplina de Programação Avançada, poderia ser visto como um projeto de programação pura, o que também não é necessariamente o caso. Limitaria a visão do projeto a um domínio específico, o que não é desejável. Assim, a disciplina de Projeto de Software pode ser mais transversal e permitir projetos mais variados, além de dar um enfoque específico à documentação técnica, que é uma competência importante a evidenciar.
-
-- **Horas:** 75h
-- **Ano:** 3.º ano
-- **Objectivo:** Fechar o curso com projeto, integração de competências e produção de documentação técnica adequada ao contexto profissional.
-- **Área da Disciplina:** Projeto de Software
-- **Descrição:** Disciplina de fecho do percurso, com enfoque em execução de projeto de programação e comunicação técnica formal. Está alinhada com o referencial ao assegurar evidência integrada de competências técnicas e de documentação profissional.
-
-| Ano       | Código  | UC                                        |  Horas |
-| --------- | ------- | ----------------------------------------- | -----: |
-| 3.º       | UC02837 | Desenvolver projetos de programação       |     50 |
-| 3.º       | UC02823 | Produzir relatórios e documentos técnicos |     25 |
-| **Total** |         |                                           | **75** |
+| Ano       | Código             | UC                                                               |   Horas |
+| --------- | ------------------ | ---------------------------------------------------------------- | ------: |
+| 3.º       | UC02835            | Desenvolver aplicações para dispositivos móveis                  |      50 |
+| 3.º       | UC02836            | Programar parâmetros de segurança no desenvolvimento de software |      25 |
+| 3.º       | UC00627 (Opcional) | Instalar e configurar servidores Web                             |      25 |
+| **Total** |                    |                                                                  | **100** |
 
 ---
 
 ## 6. Tabela global de mapeamento UC → ano → disciplina
 
-| Código  | UC                                                                              | Horas | Ano | Disciplina proposta        |
-| ------- | ------------------------------------------------------------------------------- | ----: | --- | -------------------------- |
-| UC01989 | Montar, instalar e manter equipamentos informáticos                             |    50 | 1.º | Sistemas e Redes           |
-| UC02829 | Instalar, configurar e parametrizar sistemas operativos                         |    50 | 1.º | Sistemas e Redes           |
-| UC01990 | Instalar, configurar e atualizar software complementar aos sistemas operativos  |    25 | 1.º | Sistemas e Redes           |
-| UC02817 | Instalar e interligar redes                                                     |    25 | 1.º | Sistemas e Redes           |
-| UC00241 | Configurar protocolos e serviços de rede                                        |    50 | 1.º | Sistemas e Redes           |
-| UC00613 | Gerir políticas de segurança em sistemas informáticos                           |    25 | 1.º | Sistemas e Redes           |
-| UC00616 | Implementar as normas de segurança e saúde no trabalho no setor de Informática  |    25 | 1.º | Sistemas e Redes           |
-| UC00245 | Desenvolver algoritmos                                                          |    25 | 1.º | Fundamentos de Programação |
-| UC00606 | Desenvolver programas em linguagem estruturada                                  |    50 | 1.º | Fundamentos de Programação |
-| UC00618 | Criar aplicações em linguagem de programação Python                             |    50 | 1.º | Fundamentos de Programação |
-| UC00602 | Modelar bases de dados relacionais                                              |    25 | 1.º | Bases de Dados             |
-| UC02830 | Desenvolver uma base de dados com linguagem SQL                                 |    50 | 1.º | Bases de Dados             |
-| UC02833 | Conceber aplicações para a web na vertente frontend                             |    50 | 1.º | Desenvolvimento Web        |
-| UC00617 | Utilizar serviços Git e GitHub                                                  |    25 | 1.º | Desenvolvimento Web        |
-| UC00607 | Desenvolver programas complexos em linguagem de programação estruturada         |    50 | 2.º | Programação Avançada       |
-| UC00608 | Desenvolver programas em linguagem orientada a objetos                          |    50 | 2.º | Programação Avançada       |
-| UC00619 | Desenvolver aplicações em linguagem JAVA                                        |    50 | 2.º | Programação Avançada       |
-| UC00669 | Conceber programas em linguagem C/C++                                           |    50 | 2.º | Programação Avançada       |
-| UC00664 | Criar bases de dados NoSQL                                                      |    25 | 2.º | Bases de Dados             |
-| UC02834 | Desenvolver programação para a web                                              |    50 | 2.º | Desenvolvimento Web        |
-| UC02831 | Desenvolver uma interface para a base de dados com uma linguagem de programação |    50 | 2.º | Desenvolvimento Web        |
-| UC02832 | Planear, instalar e configurar um sistema de gestão de conteúdos                |    50 | 3.º | Desenvolvimento Web        |
-| UC00621 | Criar aplicações em React                                                       |    25 | 3.º | Desenvolvimento Web        |
-| UC02835 | Desenvolver aplicações para dispositivos móveis                                 |    50 | 3.º | Aplicações Móveis          |
-| UC02836 | Programar parâmetros de segurança no desenvolvimento de software                |    25 | 3.º | Segurança Aplicada         |
-| UC00627 | Instalar e configurar servidores Web                                            |    25 | 3.º | Segurança Aplicada         |
-| UC02837 | Desenvolver projetos de programação                                             |    50 | 3.º | Projeto de Software        |
-| UC02823 | Produzir relatórios e documentos técnicos                                       |    25 | 3.º | Projeto de Software        |
+| Código  | UC                                                                              | Horas | Ano | Disciplina proposta                         |
+| ------- | ------------------------------------------------------------------------------- | ----: | --- | ------------------------------------------- |
+| UC01989 | Montar, instalar e manter equipamentos informáticos                             |    50 | 1.º | Sistemas e Redes                            |
+| UC02829 | Instalar, configurar e parametrizar sistemas operativos                         |    50 | 1.º | Sistemas e Redes                            |
+| UC01990 | Instalar, configurar e atualizar software complementar aos sistemas operativos  |    25 | 1.º | Sistemas e Redes                            |
+| UC02817 | Instalar e interligar redes                                                     |    25 | 1.º | Sistemas e Redes                            |
+| UC00241 | Configurar protocolos e serviços de rede                                        |    50 | 1.º | Sistemas e Redes                            |
+| UC00613 | Gerir políticas de segurança em sistemas informáticos                           |    25 | 1.º | Sistemas e Redes                            |
+| UC00616 | Implementar as normas de segurança e saúde no trabalho no setor de Informática  |    25 | 1.º | Sistemas e Redes                            |
+| UC00245 | Desenvolver algoritmos                                                          |    25 | 1.º | Fundamentos de Programação                  |
+| UC00606 | Desenvolver programas em linguagem estruturada                                  |    50 | 1.º | Fundamentos de Programação                  |
+| UC00618 | Criar aplicações em linguagem de programação Python                             |    50 | 1.º | Fundamentos de Programação                  |
+| UC00602 | Modelar bases de dados relacionais                                              |    25 | 1.º | Bases de Dados                              |
+| UC02830 | Desenvolver uma base de dados com linguagem SQL                                 |    50 | 1.º | Bases de Dados                              |
+| UC02833 | Conceber aplicações para a web na vertente frontend                             |    50 | 1.º | Desenvolvimento Web                         |
+| UC00617 | Utilizar serviços Git e GitHub                                                  |    25 | 1.º | Desenvolvimento Web                         |
+| UC00607 | Desenvolver programas complexos em linguagem de programação estruturada         |    50 | 2.º | Programação Avançada                        |
+| UC00608 | Desenvolver programas em linguagem orientada a objetos                          |    50 | 2.º | Programação Avançada                        |
+| UC00619 | Desenvolver aplicações em linguagem JAVA                                        |    50 | 2.º | Programação Avançada                        |
+| UC00669 | Conceber programas em linguagem C/C++                                           |    50 | 2.º | Programação Avançada                        |
+| UC00664 | Criar bases de dados NoSQL                                                      |    25 | 2.º | Bases de Dados                              |
+| UC02834 | Desenvolver programação para a web                                              |    50 | 2.º | Desenvolvimento Web                         |
+| UC02831 | Desenvolver uma interface para a base de dados com uma linguagem de programação |    50 | 2.º | Desenvolvimento Web                         |
+| UC02832 | Planear, instalar e configurar um sistema de gestão de conteúdos                |    50 | 3.º | Desenvolvimento Web                         |
+| UC00621 | Criar aplicações em React                                                       |    25 | 3.º | Desenvolvimento Web                         |
+| UC02837 | Desenvolver projetos de programação                                             |    50 | 3.º | Desenvolvimento Web                         |
+| UC02823 | Produzir relatórios e documentos técnicos                                       |    25 | 3.º | Desenvolvimento Web                         |
+| UC02835 | Desenvolver aplicações para dispositivos móveis                                 |    50 | 3.º | Desenvolvimento Mobile e Segurança Aplicada |
+| UC02836 | Programar parâmetros de segurança no desenvolvimento de software                |    25 | 3.º | Desenvolvimento Mobile e Segurança Aplicada |
+| UC00627 | Instalar e configurar servidores Web                                            |    25 | 3.º | Desenvolvimento Mobile e Segurança Aplicada |
 
 ---
 
 ## 7. Plano Curricular Proposto
 
-![Plano curricular proposto](./images/plano_curricular.png)
-
-[Ver plano curricular proposto](https://docs.google.com/spreadsheets/d/1VuvWeRKOqQLfXATec_sINFAli3lMwHyD/edit?usp=share_link&ouid=106815911914090637978&rtpof=true&sd=true)
+| Disciplina                                  | 1.º ano | 2.º ano | 3.º ano |    Total |
+| ------------------------------------------- | ------: | ------: | ------: | -------: |
+| Sistemas e Redes                            |     250 |       0 |       0 |      250 |
+| Fundamentos de Programação                  |     125 |       0 |       0 |      125 |
+| Bases de Dados                              |      75 |      25 |       0 |      100 |
+| Desenvolvimento Web                         |      75 |     100 |     150 |      325 |
+| Programação Avançada                        |       0 |     200 |       0 |      200 |
+| Desenvolvimento Mobile e Segurança Aplicada |       0 |       0 |     100 |      100 |
+| **Total**                                   | **525** | **325** | **250** | **1100** |
 
 ---
 
 ## 8. Changelog
+
+- **25-05-2026:**
+    - Redução da estrutura final de 8 para 6 disciplinas, mantendo as 1100 horas e a distribuição anual.
+    - Integração das UC de projeto e documentação técnica em Desenvolvimento Web.
+    - Fusão de Aplicações Móveis e Segurança Aplicada numa disciplina única de 3.º ano.
 
 - **08-04-2026:**
     - Inserção de tabela global de mapeamento UC → ano → disciplina.
