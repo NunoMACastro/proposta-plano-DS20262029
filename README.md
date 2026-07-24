@@ -39,17 +39,17 @@
 
 > Estas disciplinas vão substituir as atuais disciplinas de Programador de Informática.
 
-|        Nº | Disciplina                                  | Horas totais | Sugestão de Professor \*      | Observação                                                          |
-| --------: | ------------------------------------------- | -----------: | ----------------------------- | ------------------------------------------------------------------- |
-|         1 | Sistemas e Redes                            |          250 | João Paulo                    | Disciplina apenas do 1.º ano, concentrando a base técnica           |
-|         2 | Fundamentos de Programação                  |          125 | Nuno Castro                   | Entrada progressiva em algoritmia e programação                     |
-|         3 | Bases de Dados                              |          100 | Paulo Nabais / Carlos Coimbra | Disciplina vertical entre 1.º e 2.º ano                             |
-|         4 | Desenvolvimento Web                         |          325 | Nuno Castro / Paulo Nabais    | Disciplina vertical entre 1.º, 2.º e 3.º ano, incluindo projeto     |
-|         5 | Programação Avançada                        |          200 | Nuno Castro                   | Consolidação de programação estruturada avançada, POO, Java e C/C++ |
-|         6 | Desenvolvimento Mobile e Segurança Aplicada |          100 | Nuno Castro                   | Especialização final em mobile, segurança e operação web            |
-| **Total** |                                             |     **1100** |                               |                                                                     |
+|        Nº | Disciplina                                  | Horas totais | Sugestão de Professor \*                       | Observação                                                          |
+| --------: | ------------------------------------------- | -----------: | ---------------------------------------------- | ------------------------------------------------------------------- |
+|         1 | Sistemas e Redes                            |          250 | João Paulo                                     | Disciplina apenas do 1.º ano, concentrando a base técnica           |
+|         2 | Fundamentos de Programação                  |          125 | Nuno Castro                                    | Entrada progressiva em algoritmia e programação                     |
+|         3 | Bases de Dados                              |          100 | Paulo Nabais / Carlos Coimbra                  | Disciplina vertical entre 1.º e 2.º ano                             |
+|         4 | Desenvolvimento Web                         |          325 | Paulo Nabais (10º/11º) / Nuno Castro (11º/12º) | Disciplina vertical entre 1.º, 2.º e 3.º ano, incluindo projeto     |
+|         5 | Programação Avançada                        |          200 | Nuno Castro                                    | Consolidação de programação estruturada avançada, POO, Java e C/C++ |
+|         6 | Desenvolvimento Mobile e Segurança Aplicada |          100 | Nuno Castro                                    | Especialização final em mobile, segurança e operação web            |
+| **Total** |                                             |     **1100** |                                                |                                                                     |
 
-**\* Nota:** A Sugestão de Professor é feita com base nas disciplinas dadas no Curso de Programador de Informática.
+**\* Nota:** A Sugestão de Professor é feita com base nas disciplinas dadas nos cursos de Programador de Informática e Informática de Gestão.
 
 ### 3.2) Totais globais do curso
 
