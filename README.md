@@ -3,22 +3,20 @@
 - **Curso:** 481RA116 - Técnico/a de Desenvolvimento de Software
 - **Triénio:** 2026-2029
 - **Princípio organizador:** Progressão entre fundamentos de programação com construção de aplicações e desenvolvimento de um produto final seguro e documentado
-- **Carga horária total:** 3150h (2200h + 950h componente tecnológica)
+- **Carga horária total:** 3150 h (2150 h nas restantes componentes + 1000 h na componente tecnológica)
 - **Elaborado por:** Nuno Castro
 - **Última atualização:** 28 de Julho de 2026
-
-![Plano curricular proposto](./images/plano_curricular.png)
 
 ---
 
 ## 1. Distribuição global de horas por ano
 
-| Ano       |     Horas | Observação geral                                                              |
-| --------- | --------: | ----------------------------------------------------------------------------- |
-| 1.º ano   |     405 h | Sistemas de base, algoritmia, Python, dados, `frontend` e Git                 |
-| 2.º ano   |     280 h | Redes, segurança, programação avançada e desenvolvimento `backend`            |
-| 3.º ano   |     265 h | Integração de dados, aplicações web, `mobile` e IA num projeto final          |
-| **Total** | **950 h** | **Componente tecnológica; redução de 150 h relativamente às 1100 h iniciais** |
+| Ano       |      Horas | Observação geral                                                              |
+| --------- | ---------: | ----------------------------------------------------------------------------- |
+| 1.º ano   |      425 h | Sistemas de base, algoritmia, Python, dados, `frontend` e Git                 |
+| 2.º ano   |      290 h | Redes, segurança, programação avançada e desenvolvimento `backend`            |
+| 3.º ano   |      285 h | Integração de dados, aplicações web, `mobile` e IA num projeto final          |
+| **Total** | **1000 h** | **Componente tecnológica; redução de 100 h relativamente às 1100 h iniciais** |
 
 ---
 
@@ -26,14 +24,14 @@
 
 | Código    | Unidade de Competência                              | Créditos |   Horas |
 | --------- | --------------------------------------------------- | -------: | ------: |
-| UC00618   | Criar aplicações em linguagem de programação Python |      4,5 |      45 |
-| UC00619   | Desenvolver aplicações em linguagem JAVA            |      4,5 |      40 |
+| UC00618   | Criar aplicações em linguagem de programação Python |      4,5 |      50 |
+| UC00619   | Desenvolver aplicações em linguagem JAVA            |      4,5 |      45 |
 | UC00669   | Conceber programas em linguagem C/C++               |      4,5 |      40 |
 | UC00621   | Criar aplicações em React                           |     2,25 |      25 |
 | UC00664   | Criar bases de dados NoSQL                          |     2,25 |      20 |
 | UC00623   | Programar com sistemas de Inteligência Artificial   |     2,25 |      25 |
 | UC00617   | Utilizar serviços Git e GitHub                      |     2,25 |      20 |
-| **Total** |                                                     | **22,5** | **215** |
+| **Total** |                                                     | **22,5** | **225** |
 
 ### Alteração relativamente à proposta inicial
 
@@ -50,12 +48,12 @@ A UC opcional **UC00627 - Instalar e configurar servidores Web** é substituída
 |  Nº | Disciplina                    | Horas totais | Sugestão de professor \*                        | Responsabilidade curricular                                                              |
 | --: | ----------------------------- | -----------: | ----------------------------------------------- | ---------------------------------------------------------------------------------------- |
 |   1 | Sistemas e Redes              |          200 | João Paulo                                      | Infraestrutura, sistemas operativos, redes e segurança base                              |
-|   2 | Fundamentos de Programação    |          115 | Nuno Castro                                     | Algoritmia, programação estruturada e entrada em Python                                  |
-|   3 | Bases de Dados                |           85 | Paulo Nabais / Carlos Coimbra                   | Modelação, SQL e introdução a modelos de dados NoSQL                                     |
-|   4 | Desenvolvimento de Aplicações |          290 | Paulo Nabais (10.º) / Nuno Castro (11.º / 12.º) | Construção progressiva de aplicações `frontend`, `backend`, web, `mobile` e inteligentes |
-|   5 | Programação Avançada          |          170 | Nuno Castro                                     | Estruturas de dados, programação orientada a objetos, Java e C/C++                       |
-|   6 | Projeto de Software           |           90 | Nuno Castro                                     | Projeto final, segurança aplicada e documentação técnica                                 |
-|     | **Total**                     |      **950** |                                                 |                                                                                          |
+|   2 | Fundamentos de Programação    |          125 | Nuno Castro                                     | Algoritmia, programação estruturada e entrada em Python                                  |
+|   3 | Bases de Dados                |           90 | Paulo Nabais / Carlos Coimbra                   | Modelação, SQL e introdução a modelos de dados NoSQL                                     |
+|   4 | Desenvolvimento de Aplicações |          310 | Paulo Nabais (10.º) / Nuno Castro (11.º / 12.º) | Construção progressiva de aplicações `frontend`, `backend`, web, `mobile` e inteligentes |
+|   5 | Programação Avançada          |          180 | Nuno Castro                                     | Estruturas de dados, programação orientada a objetos, Java e C/C++                       |
+|   6 | Projeto de Software           |           95 | Nuno Castro                                     | Projeto final, segurança aplicada e documentação técnica                                 |
+|     | **Total**                     |     **1000** |                                                 |                                                                                          |
 
 **\* Nota:** A sugestão de professor é feita com base nas disciplinas lecionadas nos cursos de Programador de Informática e Informática de Gestão.
 
@@ -65,40 +63,40 @@ A UC opcional **UC00627 - Instalar e configurar servidores Web** é substituída
 | ------------------------------- | -------: |
 | N.º total de disciplinas        |        6 |
 | N.º total de UC                 |       28 |
-| Horas das restantes componentes |     2200 |
-| Horas da componente tecnológica |      950 |
+| Horas das restantes componentes |     2150 |
+| Horas da componente tecnológica |     1000 |
 | **Horas totais do curso**       | **3150** |
 
 ---
 
 ## 4. Distribuição das disciplinas por ano
 
-### 4.1) 1.º ano - 405 horas
+### 4.1) 1.º ano - 425 horas
 
 | Disciplina                    | Horas no ano |
 | ----------------------------- | -----------: |
 | Sistemas e Redes              |          140 |
-| Fundamentos de Programação    |          115 |
-| Bases de Dados                |           85 |
-| Desenvolvimento de Aplicações |           65 |
-| **Total**                     |      **405** |
+| Fundamentos de Programação    |          125 |
+| Bases de Dados                |           90 |
+| Desenvolvimento de Aplicações |           70 |
+| **Total**                     |      **425** |
 
-### 4.2) 2.º ano - 280 horas
+### 4.2) 2.º ano - 290 horas
 
 | Disciplina                    | Horas no ano |
 | ----------------------------- | -----------: |
 | Sistemas e Redes              |           60 |
-| Programação Avançada          |          170 |
+| Programação Avançada          |          180 |
 | Desenvolvimento de Aplicações |           50 |
-| **Total**                     |      **280** |
+| **Total**                     |      **290** |
 
-### 4.3) 3.º ano - 265 horas
+### 4.3) 3.º ano - 285 horas
 
 | Disciplina                    | Horas no ano |
 | ----------------------------- | -----------: |
-| Desenvolvimento de Aplicações |          175 |
-| Projeto de Software           |           90 |
-| **Total**                     |      **265** |
+| Desenvolvimento de Aplicações |          190 |
+| Projeto de Software           |           95 |
+| **Total**                     |      **285** |
 
 ---
 
@@ -133,7 +131,7 @@ A UC opcional **UC00627 - Instalar e configurar servidores Web** é substituída
 
 ### 5.2) Fundamentos de Programação
 
-- **Horas:** 115 h
+- **Horas:** 125 h
 - **Ano:** 1.º ano
 - **Objetivo:** Introduzir pensamento computacional, algoritmia, lógica e programação através de uma progressão pedagógica apoiada em Python.
 - **Área da disciplina:** Algoritmia e fundamentos de programação.
@@ -142,9 +140,9 @@ A UC opcional **UC00627 - Instalar e configurar servidores Web** é substituída
 | Ano       | Código             | UC                                                  |   Horas |
 | --------- | ------------------ | --------------------------------------------------- | ------: |
 | 1.º       | UC00245            | Desenvolver algoritmos                              |      25 |
-| 1.º       | UC00606            | Desenvolver programas em linguagem estruturada      |      45 |
-| 1.º       | UC00618 (Opcional) | Criar aplicações em linguagem de programação Python |      45 |
-| **Total** |                    |                                                     | **115** |
+| 1.º       | UC00606            | Desenvolver programas em linguagem estruturada      |      50 |
+| 1.º       | UC00618 (Opcional) | Criar aplicações em linguagem de programação Python |      50 |
+| **Total** |                    |                                                     | **125** |
 
 **Articulação recomendada:**
 
@@ -156,7 +154,7 @@ A UC opcional **UC00627 - Instalar e configurar servidores Web** é substituída
 
 ### 5.3) Bases de Dados
 
-- **Horas:** 85 h
+- **Horas:** 90 h
 - **Ano:** 1.º ano
 - **Objetivo:** Desenvolver competências de modelação e gestão de dados, começando pelo modelo relacional e evoluindo para bases de dados não relacionais.
 - **Área da disciplina:** Análise de sistemas e bases de dados.
@@ -165,9 +163,9 @@ A UC opcional **UC00627 - Instalar e configurar servidores Web** é substituída
 | Ano       | Código             | UC                                              |  Horas |
 | --------- | ------------------ | ----------------------------------------------- | -----: |
 | 1.º       | UC00602            | Modelar bases de dados relacionais              |     20 |
-| 1.º       | UC02830            | Desenvolver uma base de dados com linguagem SQL |     45 |
+| 1.º       | UC02830            | Desenvolver uma base de dados com linguagem SQL |     50 |
 | 1.º       | UC00664 (Opcional) | Criar bases de dados NoSQL                      |     20 |
-| **Total** |                    |                                                 | **85** |
+| **Total** |                    |                                                 | **90** |
 
 **Articulação recomendada:**
 
@@ -180,7 +178,7 @@ A UC opcional **UC00627 - Instalar e configurar servidores Web** é substituída
 
 ### 5.4) Desenvolvimento de Aplicações
 
-- **Horas:** 290 h
+- **Horas:** 310 h
 - **Ano:** 1.º, 2.º e 3.º anos
 - **Objetivo:** Construir aplicações progressivamente mais completas, começando no `frontend`, avançando para programação `server-side` e terminando com integração de dados, aplicações web, `mobile` e inteligentes.
 - **Área da disciplina:** Desenvolvimento aplicacional `frontend`, `backend`, web, `mobile` e integração de IA.
@@ -188,15 +186,15 @@ A UC opcional **UC00627 - Instalar e configurar servidores Web** é substituída
 
 | Ano       | Código             | UC                                                                              |   Horas |
 | --------- | ------------------ | ------------------------------------------------------------------------------- | ------: |
-| 1.º       | UC02833            | Conceber aplicações para a web na vertente `frontend`                           |      45 |
+| 1.º       | UC02833            | Conceber aplicações para a web na vertente `frontend`                           |      50 |
 | 1.º       | UC00617 (Opcional) | Utilizar serviços Git e GitHub                                                  |      20 |
 | 2.º       | UC02834            | Desenvolver programação para a web                                              |      50 |
-| 3.º       | UC02831            | Desenvolver uma interface para a base de dados com uma linguagem de programação |      40 |
+| 3.º       | UC02831            | Desenvolver uma interface para a base de dados com uma linguagem de programação |      50 |
 | 3.º       | UC02832            | Planear, instalar e configurar um sistema de gestão de conteúdos                |      40 |
 | 3.º       | UC00621 (Opcional) | Criar aplicações em React                                                       |      25 |
-| 3.º       | UC02835            | Desenvolver aplicações para dispositivos móveis                                 |      45 |
+| 3.º       | UC02835            | Desenvolver aplicações para dispositivos móveis                                 |      50 |
 | 3.º       | UC00623 (Opcional) | Programar com sistemas de Inteligência Artificial                               |      25 |
-| **Total** |                    |                                                                                 | **290** |
+| **Total** |                    |                                                                                 | **310** |
 
 #### Progressão da disciplina
 
@@ -235,7 +233,7 @@ No 3.º ano, as cinco UC devem contribuir para o mesmo produto:
 
 ### 5.5) Programação Avançada
 
-- **Horas:** 170 h
+- **Horas:** 180 h
 - **Ano:** 2.º ano
 - **Objetivo:** Consolidar programação estruturada avançada, estruturas de dados, orientação a objetos e linguagens compiladas.
 - **Área da disciplina:** Programação avançada e programação orientada a objetos.
@@ -244,21 +242,21 @@ No 3.º ano, as cinco UC devem contribuir para o mesmo produto:
 | Ano       | Código             | UC                                                                      |   Horas |
 | --------- | ------------------ | ----------------------------------------------------------------------- | ------: |
 | 2.º       | UC00607            | Desenvolver programas complexos em linguagem de programação estruturada |      45 |
-| 2.º       | UC00608            | Desenvolver programas em linguagem orientada a objetos                  |      45 |
-| 2.º       | UC00619 (Opcional) | Desenvolver aplicações em linguagem JAVA                                |      40 |
+| 2.º       | UC00608            | Desenvolver programas em linguagem orientada a objetos                  |      50 |
+| 2.º       | UC00619 (Opcional) | Desenvolver aplicações em linguagem JAVA                                |      45 |
 | 2.º       | UC00669 (Opcional) | Conceber programas em linguagem C/C++                                   |      40 |
-| **Total** |                    |                                                                         | **170** |
+| **Total** |                    |                                                                         | **180** |
 
 **Articulação recomendada:**
 
 - UC00607 e UC00669 formam um percurso articulado de 85 horas de C/C++;
-- UC00608 e UC00619 formam um percurso articulado de 85 horas de Java e programação orientada a objetos.
+- UC00608 e UC00619 formam um percurso articulado de 95 horas de Java e programação orientada a objetos.
 
 ---
 
 ### 5.6) Projeto de Software
 
-- **Horas:** 90 h
+- **Horas:** 95 h
 - **Ano:** 3.º ano
 - **Objetivo:** Planear, desenvolver, proteger, testar e documentar um produto de software que integre as aprendizagens das restantes disciplinas.
 - **Área da disciplina:** Projeto, engenharia de software, segurança aplicada e documentação técnica.
@@ -266,14 +264,14 @@ No 3.º ano, as cinco UC devem contribuir para o mesmo produto:
 
 | Ano       | Código  | UC                                                               |  Horas |
 | --------- | ------- | ---------------------------------------------------------------- | -----: |
-| 3.º       | UC02837 | Desenvolver projetos de programação                              |     45 |
+| 3.º       | UC02837 | Desenvolver projetos de programação                              |     50 |
 | 3.º       | UC02836 | Programar parâmetros de segurança no desenvolvimento de software |     25 |
 | 3.º       | UC02823 | Produzir relatórios e documentos técnicos                        |     20 |
-| **Total** |         |                                                                  | **90** |
+| **Total** |         |                                                                  | **95** |
 
 #### Organização da disciplina
 
-**Projeto - 45 horas**
+**Projeto - 50 horas**
 
 - definição do problema e dos utilizadores;
 - requisitos e planeamento;
@@ -312,24 +310,24 @@ No 3.º ano, as cinco UC devem contribuir para o mesmo produto:
 | UC00241 | Configurar protocolos e serviços de rede                                        |    40 | 2.º | Sistemas e Redes              |
 | UC00613 | Gerir políticas de segurança em sistemas informáticos                           |    20 | 2.º | Sistemas e Redes              |
 | UC00245 | Desenvolver algoritmos                                                          |    25 | 1.º | Fundamentos de Programação    |
-| UC00606 | Desenvolver programas em linguagem estruturada                                  |    45 | 1.º | Fundamentos de Programação    |
-| UC00618 | Criar aplicações em linguagem de programação Python                             |    45 | 1.º | Fundamentos de Programação    |
+| UC00606 | Desenvolver programas em linguagem estruturada                                  |    50 | 1.º | Fundamentos de Programação    |
+| UC00618 | Criar aplicações em linguagem de programação Python                             |    50 | 1.º | Fundamentos de Programação    |
 | UC00602 | Modelar bases de dados relacionais                                              |    20 | 1.º | Bases de Dados                |
-| UC02830 | Desenvolver uma base de dados com linguagem SQL                                 |    45 | 1.º | Bases de Dados                |
+| UC02830 | Desenvolver uma base de dados com linguagem SQL                                 |    50 | 1.º | Bases de Dados                |
 | UC00664 | Criar bases de dados NoSQL                                                      |    20 | 1.º | Bases de Dados                |
-| UC02833 | Conceber aplicações para a web na vertente `frontend`                           |    45 | 1.º | Desenvolvimento de Aplicações |
+| UC02833 | Conceber aplicações para a web na vertente `frontend`                           |    50 | 1.º | Desenvolvimento de Aplicações |
 | UC00617 | Utilizar serviços Git e GitHub                                                  |    20 | 1.º | Desenvolvimento de Aplicações |
 | UC00607 | Desenvolver programas complexos em linguagem de programação estruturada         |    45 | 2.º | Programação Avançada          |
-| UC00608 | Desenvolver programas em linguagem orientada a objetos                          |    45 | 2.º | Programação Avançada          |
-| UC00619 | Desenvolver aplicações em linguagem JAVA                                        |    40 | 2.º | Programação Avançada          |
+| UC00608 | Desenvolver programas em linguagem orientada a objetos                          |    50 | 2.º | Programação Avançada          |
+| UC00619 | Desenvolver aplicações em linguagem JAVA                                        |    45 | 2.º | Programação Avançada          |
 | UC00669 | Conceber programas em linguagem C/C++                                           |    40 | 2.º | Programação Avançada          |
 | UC02834 | Desenvolver programação para a web                                              |    50 | 2.º | Desenvolvimento de Aplicações |
-| UC02831 | Desenvolver uma interface para a base de dados com uma linguagem de programação |    40 | 3.º | Desenvolvimento de Aplicações |
+| UC02831 | Desenvolver uma interface para a base de dados com uma linguagem de programação |    50 | 3.º | Desenvolvimento de Aplicações |
 | UC02832 | Planear, instalar e configurar um sistema de gestão de conteúdos                |    40 | 3.º | Desenvolvimento de Aplicações |
 | UC00621 | Criar aplicações em React                                                       |    25 | 3.º | Desenvolvimento de Aplicações |
-| UC02835 | Desenvolver aplicações para dispositivos móveis                                 |    45 | 3.º | Desenvolvimento de Aplicações |
+| UC02835 | Desenvolver aplicações para dispositivos móveis                                 |    50 | 3.º | Desenvolvimento de Aplicações |
 | UC00623 | Programar com sistemas de Inteligência Artificial                               |    25 | 3.º | Desenvolvimento de Aplicações |
-| UC02837 | Desenvolver projetos de programação                                             |    45 | 3.º | Projeto de Software           |
+| UC02837 | Desenvolver projetos de programação                                             |    50 | 3.º | Projeto de Software           |
 | UC02836 | Programar parâmetros de segurança no desenvolvimento de software                |    25 | 3.º | Projeto de Software           |
 | UC02823 | Produzir relatórios e documentos técnicos                                       |    20 | 3.º | Projeto de Software           |
 
@@ -339,7 +337,7 @@ No 3.º ano, as cinco UC devem contribuir para o mesmo produto:
 
 As reduções incidem sobretudo em conteúdos transversais que aparecem em várias UC (planeamento, preparação do ambiente, consulta de documentação, testes, depuração, segurança e elaboração de relatórios) e que passam a ser trabalhados de forma continuada nos projetos, evitando reintroduções completas em cada módulo.
 
-**Resumo da alteração:** 1100 h → 950 h · **redução total de 150 h**
+**Resumo da alteração:** 1100 h → 1000 h · **redução total de 100 h**
 
 ### 7.1) Sistemas e Redes - redução de 50 horas
 
@@ -371,98 +369,102 @@ As reduções incidem sobretudo em conteúdos transversais que aparecem em vári
   25 → 20 h · redução de 5 h  
   Mantém-se a gestão de políticas e a segurança dos sistemas. Cinco horas de segurança passam para aplicação prática na UC02834.
 
-### 7.2) Fundamentos de Programação - redução de 10 horas
-
-- **UC00606 - Programação estruturada**  
-  50 → 45 h · redução de 5 h  
-  Algoritmos, fluxogramas e pseudocódigo são introduzidos na UC00245, permitindo concentrar esta UC na implementação estruturada.
-
-- **UC00618 - Python**  
-  50 → 45 h · redução de 5 h  
-  Python concretiza os conceitos desenvolvidos nas UC00245 e UC00606, dispensando uma nova introdução completa à lógica de programação.
-
-### 7.3) Bases de Dados - redução de 15 horas
+### 7.2) Bases de Dados - redução de 10 horas
 
 - **UC00602 - Modelação de bases de dados relacionais**  
   25 → 20 h · redução de 5 h  
   A modelação é imediatamente aplicada na UC02830, consolidando entidades, relações, chaves e integridade através de SQL.
 
-- **UC02830 - SQL**  
-  50 → 45 h · redução de 5 h  
-  A prática de SQL continua nas UC de integração de dados, programação web e projeto, reduzindo a necessidade de exercícios isolados repetitivos.
-
 - **UC00664 - NoSQL**  
   25 → 20 h · redução de 5 h  
   A UC concentra-se nas diferenças, casos de uso e implementação documental, reutilizando conceitos de modelação e persistência já adquiridos.
 
-### 7.4) Desenvolvimento de Aplicações - redução de 35 horas
-
-- **UC02833 - Web `frontend`**  
-  50 → 45 h · redução de 5 h  
-  A interface criada nesta UC evolui posteriormente em React, transferindo parte da consolidação para um produto comum.
+### 7.3) Desenvolvimento de Aplicações - redução de 15 horas
 
 - **UC00617 - Git e GitHub**  
   25 → 20 h · redução de 5 h  
   Git e GitHub são introduzidos formalmente nesta UC e utilizados de forma obrigatória e transversal em todas as UC de desenvolvimento seguintes.
 
-- **UC02831 - Interface para bases de dados**  
-  50 → 40 h · redução de 10 h  
-  Reutiliza SQL, programação e arquitetura web já adquiridos. A ligação aos dados é implementada diretamente no produto do 3.º ano.
-
 - **UC02832 - Sistema de gestão de conteúdos**  
   50 → 40 h · redução de 10 h  
   Planeamento, bases de dados, `frontend`, segurança e publicação são integrados com UC anteriores e com o projeto, evitando conteúdos introdutórios repetidos.
 
-- **UC02835 - Desenvolvimento móvel**  
-  50 → 45 h · redução de 5 h  
-  A aplicação móvel reutiliza a API, o modelo de dados, a autenticação e as regras de negócio do produto web.
-
-### 7.5) Programação Avançada - redução de 30 horas
+### 7.4) Programação Avançada - redução de 20 horas
 
 - **UC00607 - Programação estruturada complexa**  
   50 → 45 h · redução de 5 h  
   Parte da metodologia, estruturas de controlo, funções, testes e depuração já foi consolidada no percurso inicial de programação.
 
-- **UC00608 - Programação orientada a objetos**  
-  50 → 45 h · redução de 5 h  
-  A UC mantém os fundamentos de orientação a objetos, enquanto a aplicação e consolidação dos conceitos prosseguem em Java.
-
 - **UC00619 - Java**  
-  50 → 40 h · redução de 10 h  
-  Java é tratado como concretização prática do percurso de POO, sem repetir integralmente classes, objetos, encapsulamento, herança e polimorfismo.
+  50 → 45 h · redução de 5 h
+
+    Java é tratado como concretização prática do percurso de POO, sem repetir integralmente classes, objetos, encapsulamento, herança e polimorfismo.
 
 - **UC00669 - C/C++**  
   50 → 40 h · redução de 10 h  
   C/C++ aprofunda o percurso de programação estruturada complexa, reutilizando algoritmos, estruturas de controlo, funções, testes e depuração.
 
-### 7.6) Projeto de Software - redução de 10 horas
-
-- **UC02837 - Projeto de programação**  
-  50 → 45 h · redução de 5 h  
-  O planeamento, desenvolvimento e acompanhamento do produto são partilhados com as UC técnicas do 3.º ano, mantendo o projeto como elemento integrador.
+### 7.5) Projeto de Software - redução de 5 horas
 
 - **UC02823 - Relatórios e documentação técnica**  
   25 → 20 h · redução de 5 h  
   A documentação é ensinada formalmente nesta UC, mas produzida e atualizada progressivamente desde o início dos projetos.
 
-### 7.7) UC preservadas sem redução
+### 7.6) UC preservadas sem redução
 
-- **UC00245 - Desenvolver algoritmos · 25 h**  
-  É a base do percurso de programação e já dispõe de uma carga horária reduzida.
+- **UC00245 - Desenvolver algoritmos · 25 h**
 
-- **UC02834 - Desenvolver programação para a web · 50 h**  
-  É uma UC densa e central, que recebe cinco horas de segurança prática transferidas da UC00613.
+    É a base do percurso de programação e já dispõe de uma carga horária reduzida.
 
-- **UC00621 - Criar aplicações em React · 25 h**  
-  Componentes, estado, formulários, consumo de APIs e navegação tornam as 25 horas já muito exigentes.
+- **UC00606 - Desenvolver programas em linguagem estruturada · 50 h**
 
-- **UC00623 - Programar com sistemas de Inteligência Artificial · 25 h**  
-  O referencial abrange vários domínios de IA numa carga horária já limitada.
+    Preserva o tempo necessário para consolidar estruturas de controlo, funções, decomposição de problemas, testes e depuração.
 
-- **UC02836 - Programar parâmetros de segurança no desenvolvimento de software · 25 h**  
-  A segurança aplicada não deve ser comprimida nem tratada apenas como conteúdo teórico.
+- **UC00618 - Criar aplicações em linguagem de programação Python · 50 h**
 
-### 7.8) Princípios de implementação
+    Mantém tempo de prática suficiente na primeira linguagem de programação utilizada de forma consistente no curso.
+
+- **UC02830 - Desenvolver uma base de dados com linguagem SQL · 50 h**
+
+    Preserva uma competência transversal ao desenvolvimento `backend`, à integração de dados, às aplicações móveis e ao projeto.
+
+- **UC02833 - Conceber aplicações para a web na vertente `frontend` · 50 h**
+
+    Consolida HTML, CSS e JavaScript antes da progressão para React.
+
+- **UC02834 - Desenvolver programação para a web · 50 h**
+
+    É uma UC densa e central, que recebe cinco horas de segurança prática transferidas da UC00613.
+
+- **UC00608 - Desenvolver programas em linguagem orientada a objetos · 50 h**
+
+    Preserva o tempo necessário para introduzir e consolidar POO antes da sua aplicação em Java.
+
+- **UC02831 - Desenvolver uma interface para a base de dados com uma linguagem de programação · 50 h**
+
+    Mantém tempo suficiente para integrar programação, SQL, persistência, validação, tratamento de erros e segurança.
+
+- **UC00621 - Criar aplicações em React · 25 h**
+
+    Componentes, estado, formulários, consumo de APIs e navegação tornam as 25 horas já muito exigentes.
+
+- **UC02835 - Desenvolver aplicações para dispositivos móveis · 50 h**
+
+    Preserva o tempo necessário para ambiente, navegação, estado, consumo de APIs, persistência e testes.
+
+- **UC00623 - Programar com sistemas de Inteligência Artificial · 25 h**
+
+    O referencial abrange vários domínios de IA numa carga horária já limitada.
+
+- **UC02837 - Desenvolver projetos de programação · 50 h**
+
+    Mantém tempo efetivo para planeamento, implementação, integração, correção, testes e apresentação do produto final.
+
+- **UC02836 - Programar parâmetros de segurança no desenvolvimento de software · 25 h**
+
+    A segurança aplicada não deve ser comprimida nem tratada apenas como conteúdo teórico.
+
+### 7.7) Princípios de implementação
 
 Para que a redução seja pedagogicamente sustentável:
 
@@ -471,22 +473,22 @@ Para que a redução seja pedagogicamente sustentável:
 3. A documentação é produzida progressivamente e consolidada na UC02823.
 4. Segurança é trabalhada nos sistemas, aplicada à programação web e aprofundada no projeto final.
 5. C/C++ articula UC00607 e UC00669 num único percurso de 85 horas.
-6. POO e Java articulam UC00608 e UC00619 num único percurso de 85 horas.
+6. POO e Java articulam UC00608 e UC00619 num único percurso de 95 horas.
 7. `Frontend`, `backend`, dados, CMS, React, `mobile` e IA contribuem para produtos progressivamente integrados.
 
 ---
 
 ## 8. Plano Curricular Proposto
 
-| Disciplina                    | 1.º ano | 2.º ano | 3.º ano |   Total |
-| ----------------------------- | ------: | ------: | ------: | ------: |
-| Sistemas e Redes              |     140 |      60 |       0 |     200 |
-| Fundamentos de Programação    |     115 |       0 |       0 |     115 |
-| Bases de Dados                |      85 |       0 |       0 |      85 |
-| Desenvolvimento de Aplicações |      65 |      50 |     175 |     290 |
-| Programação Avançada          |       0 |     170 |       0 |     170 |
-| Projeto de Software           |       0 |       0 |      90 |      90 |
-| **Total**                     | **405** | **280** | **265** | **950** |
+| Disciplina                    | 1.º ano | 2.º ano | 3.º ano |    Total |
+| ----------------------------- | ------: | ------: | ------: | -------: |
+| Sistemas e Redes              |     140 |      60 |       0 |      200 |
+| Fundamentos de Programação    |     125 |       0 |       0 |      125 |
+| Bases de Dados                |      90 |       0 |       0 |       90 |
+| Desenvolvimento de Aplicações |      70 |      50 |     190 |      310 |
+| Programação Avançada          |       0 |     180 |       0 |      180 |
+| Projeto de Software           |       0 |       0 |      95 |       95 |
+| **Total**                     | **425** | **290** | **285** | **1000** |
 
 ---
 
