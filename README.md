@@ -3,9 +3,11 @@
 - **Curso:** 481RA116 - Técnico/a de Desenvolvimento de Software
 - **Triénio:** 2026-2029
 - **Princípio organizador:** Progressão entre fundamentos de programação com construção de aplicações e desenvolvimento de um produto final seguro e documentado
-- **Carga horária total:** 3150 h (2150 h nas restantes componentes + 1000 h na componente tecnológica)
+- **Carga horária total:** 3100 h (2100 h nas restantes componentes + 1000 h na componente tecnológica)
 - **Elaborado por:** Nuno Castro
-- **Última atualização:** 28 de Julho de 2026
+- **Última atualização:** 28 de julho de 2026
+
+![Plano curricular proposto](./images/plano_curricular.png)
 
 ---
 
@@ -45,7 +47,7 @@ A UC opcional **UC00627 - Instalar e configurar servidores Web** é substituída
 
 > As disciplinas são organizadas por responsabilidade curricular e não por uma enumeração de tecnologias.
 
-|  Nº | Disciplina                    | Horas totais | Sugestão de professor \*                        | Responsabilidade curricular                                                              |
+| N.º | Disciplina                    | Horas totais | Sugestão de professor \*                        | Responsabilidade curricular                                                              |
 | --: | ----------------------------- | -----------: | ----------------------------------------------- | ---------------------------------------------------------------------------------------- |
 |   1 | Sistemas e Redes              |          200 | João Paulo                                      | Infraestrutura, sistemas operativos, redes e segurança base                              |
 |   2 | Fundamentos de Programação    |          125 | Nuno Castro                                     | Algoritmia, programação estruturada e entrada em Python                                  |
@@ -59,13 +61,13 @@ A UC opcional **UC00627 - Instalar e configurar servidores Web** é substituída
 
 ### 3.2) Totais globais do curso
 
-| Indicador                       |    Valor |
-| ------------------------------- | -------: |
-| N.º total de disciplinas        |        6 |
-| N.º total de UC                 |       28 |
-| Horas das restantes componentes |     2150 |
-| Horas da componente tecnológica |     1000 |
-| **Horas totais do curso**       | **3150** |
+| Indicador                                                         |    Valor |
+| ----------------------------------------------------------------- | -------: |
+| N.º total de disciplinas                                          |        6 |
+| N.º total de UC                                                   |       28 |
+| Horas das restantes componentes (Sociocultural, científica e FCT) |     2100 |
+| Horas da componente tecnológica                                   |     1000 |
+| **Horas totais do curso**                                         | **3100** |
 
 ---
 
